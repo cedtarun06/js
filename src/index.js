@@ -19,17 +19,28 @@ a = a + 1;
 b = b + 5;
 c = c + " String!";
 // Variable declarations
+let catSound = "Meow!";
 var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
-
-// Variable assignments
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
-let catName = "Oliver";
-let catSound = "Meow!";
+const sum = 10 + 10;
 const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(FCC, fact); // Change this line
+const FCC = "freeCodeCamp";
+let fact = "is COOL!";
+
+fact = "is awesome!";
+console.log(FCC, fact);
+const difference = 45 - 33;
+// Change this line
+// Change this line
+// Change this line
+// Change this line
+// Change this line
+console.log(FCC, fact);
+console.log(FCC, fact);
