@@ -53,3 +53,9 @@ a /=12;
 b /=4;
 c /=11;
 const myStr = "This is the start." + " This is the end"; // Change this lin
+// Setup
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
